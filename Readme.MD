@@ -9,7 +9,7 @@
 1. • Réguas (de diferentes cores e tamanhos); 
 1. • Links (com imagens) e âncoras internas (voltar para o topo / ir para o rodapé da página); 
 1. • Todos os textos das páginas deverão estar justificados. Obs: Nas tabelas vocês poderão utilizar o alinhamento que quiser; • Listas numeradas e listas não numeradas; 
-1. • Formulário com pelo menos um campo de cada modelo (text, password, textarea, checkbox, radio, etc...); 
+1. – OK - • Formulário com pelo menos um campo de cada modelo (text, password, textarea, checkbox, radio, etc...); 
 1. • iframe apontando para um site sobre Fórmula 1; 
 1. • uma imagem mapeada e uma imagem cambiável. 
 * 7 – ATENÇÃO: No dia da entrega, todos os alunos da equipe deverão apresentar (no máximo em 10 minutos) como foi criado o site, por isso cada aluno da equipe deverá ter CONHECIMENTO COMPLETO sobre como o mesmo foi elaborado; 
